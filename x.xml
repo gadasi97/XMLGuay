@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.7 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 10 HD">
+    <display-name lang="es">Canal 10 HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/421.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="Canal 4 HD">
+    <display-name lang="es">Canal 4 HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/420.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="La Tele HD">
+    <display-name lang="es">La Tele HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/422.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="TNU HD">
+    <display-name lang="es">TNU HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/423.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="TV Ciudad HD">
+    <display-name lang="es">TV Ciudad HD</display-name>
+    <icon src="http://tvapps.tccvivo.com.uy/zenterio/tcc/ahoratv_v2/logos/426.png" />
+    <url>http://www.tcc.com.uy</url>
+  </channel>
+  <channel id="VTV">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <channel id="VTV Plus">
+    <display-name lang="es">VTV Plus</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <programme start="20220412123000 -0300" stop="20220412143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220412143000 -0300" stop="20220412163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220412163000 -0300" stop="20220412170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220412170000 -0300" stop="20220412180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220412180000 -0300" stop="20220412190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220412190000 -0300" stop="20220412210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220412210000 -0300" stop="20220412230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Pasapalabra</title>
+    <desc lang="es">En cada emisión, se enfrentarán dos equipos integrados por participantes del público, acompañados por los famosos más queridos del Uruguay -personajes del mundo del espectáculo, las artes, el deporte y los medios de comunicación.(n)</desc>
+  </programme>
+  <programme start="20220412230000 -0300" stop="20220413000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220413000000 -0300" stop="20220413010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220413010000 -0300" stop="20220413030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220413030000 -0300" stop="20220413043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220413043000 -0300" stop="20220413060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220413060000 -0300" stop="20220413063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220413063000 -0300" stop="20220413070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220413070000 -0300" stop="20220413080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220413103000 -0300" stop="20220413123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220413123000 -0300" stop="20220413143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220413143000 -0300" stop="20220413163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220413163000 -0300" stop="20220413170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220413170000 -0300" stop="20220413180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220413180000 -0300" stop="20220413190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220413190000 -0300" stop="20220413210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220413210000 -0300" stop="20220413230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Sonríe, te estamos grabando</title>
+    <desc lang="es">Un clásico de la televisión uruguaya, con informes de archivo, actualidad, humor, invitados y nuevos espacios que darán que hablar.(n)</desc>
+  </programme>
+  <programme start="20220413230000 -0300" stop="20220414000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220414000000 -0300" stop="20220414010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220414010000 -0300" stop="20220414030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220414030000 -0300" stop="20220414043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220414043000 -0300" stop="20220414060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220414060000 -0300" stop="20220414062500 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220414062500 -0300" stop="20220414063000 -0300" channel="Canal 10 HD">
+    <title lang="es">TV Educativa - Secundaria</title>
+    <desc lang="es">Espacio en el cual se presentan contenidos audiovisuales en los cuales se exponen diferentes temas de interés general que son abordados en la actualidad con el propósito de educar al espectador.(n)</desc>
+  </programme>
+  <programme start="20220414063000 -0300" stop="20220414070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220414070000 -0300" stop="20220414080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220414103000 -0300" stop="20220414123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220414123000 -0300" stop="20220414143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220414143000 -0300" stop="20220414163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220414163000 -0300" stop="20220414170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220414170000 -0300" stop="20220414180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220414180000 -0300" stop="20220414190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220414190000 -0300" stop="20220414210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220414210000 -0300" stop="20220414230000 -0300" channel="Canal 10 HD">
+    <title lang="es">¿Quién quiere ser millonario</title>
+    <desc lang="es">El formato de preguntas y respuestas más importante del mundo, ahora hecho en Uruguay con la conducción del Lic. Orlando Petinatti.(n)</desc>
+  </programme>
+  <programme start="20220414230000 -0300" stop="20220415000000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220415000000 -0300" stop="20220415010000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220415010000 -0300" stop="20220415030000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220415030000 -0300" stop="20220415043000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220415043000 -0300" stop="20220415060000 -0300" channel="Canal 10 HD">
+    <title lang="es">Autores en vivo</title>
+    <desc lang="es">Ciclo audiovisual de autores nacionales impulsado por AGADU con el fin de colaborar con el desarrollo de los artistas y solistas del país, brindando la oportunidad de conocer el talento de dichos escritores en un ambiente íntimo.(n)</desc>
+  </programme>
+  <programme start="20220415060000 -0300" stop="20220415063000 -0300" channel="Canal 10 HD">
+    <title lang="es">Nehir</title>
+    <desc lang="es">Intriga, suspenso, amistad, pasión, amor y una gran interrogante: ¿podrías enamorarte de alguien sin haberlo visto jamás.(n)</desc>
+  </programme>
+  <programme start="20220415063000 -0300" stop="20220415070000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220415070000 -0300" stop="20220415080000 -0300" channel="Canal 10 HD">
+    <title lang="es">Informativo Carve 850</title>
+    <desc lang="es">Miguel Nogueira, Nicolás Lussich y Juan Paullier te cuentan las principales noticias del día en los titulares de las 7 de la mañana.(n)</desc>
+  </programme>
+  <programme start="20220415080000 -0300" stop="20220415103000 -0300" channel="Canal 10 HD">
+    <title lang="es">Arriba gente</title>
+    <desc lang="es">La propuesta informativa matutina de nuestra pantalla, conducida por un equipo periodístico de primer nivel.(n)</desc>
+  </programme>
+  <programme start="20220415103000 -0300" stop="20220415123000 -0300" channel="Canal 10 HD">
+    <title lang="es">La mañana en casa</title>
+    <desc lang="es">Noticias, entrevistas, actualidad, espectáculos y mucho más, en la revista matinal más entretenida de la televisión.(n)</desc>
+  </programme>
+  <programme start="20220415123000 -0300" stop="20220415143000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado mediodía</title>
+    <desc lang="es">José Irazábal junto a un gran equipo periodístico repasan los hechos de la agenda informativa.(n)</desc>
+  </programme>
+  <programme start="20220415143000 -0300" stop="20220415163000 -0300" channel="Canal 10 HD">
+    <title lang="es">El show de la tarde</title>
+    <desc lang="es">Paola Bianco y Aldo Martínez serán los encargados de divertirnos y entretenernos.(n)</desc>
+  </programme>
+  <programme start="20220415163000 -0300" stop="20220415170000 -0300" channel="Canal 10 HD">
+    <title lang="es">Así es tu día</title>
+    <desc lang="es">Comenzá la mañana con las predicciones astrológicas de Verónica Lavalle.(n)</desc>
+  </programme>
+  <programme start="20220415170000 -0300" stop="20220415180000 -0300" channel="Canal 10 HD">
+    <title lang="es">Tierra amarga</title>
+    <desc lang="es">Zuleyha y Yilmaz sueñan con casarse. Su historia de amor cambia abruptamente cuando un criminal adinerado intenta abusar de Zuleyha. Yilmaz llega a tiempo y la salva, pero en el duelo, el agresor muere. Ahora ellos deben huir.(n)</desc>
+  </programme>
+  <programme start="20220415180000 -0300" stop="20220415190000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado tarde</title>
+    <desc lang="es">La información más relevante de la jornada electoral, con un gran despliegue periodístico y técnico.(n)</desc>
+  </programme>
+  <programme start="20220415190000 -0300" stop="20220415210000 -0300" channel="Canal 10 HD">
+    <title lang="es">Subrayado</title>
+    <desc lang="es">El informativo más prestigioso de la televisión uruguaya continúa su camino de crecimiento constante. Blanca Rodriguez y un gran equipo, son los referentes desde hace varios años de llevar a los hogares toda la actualidad de lo que pasa en nuestro país y en el mundo.(n)</desc>
+  </programme>
+  <programme start="20220415210000 -0300" stop="20220415230000 -0300" channel="Canal 10 HD">
+    <title lang="es">Polémica en el bar</title>
+    <desc lang="es">El espacio refleja la típica mesa de bar donde un grupo de amigos se encuentra en su café favorito para debatir los temas de la semana con humor, picardía e inteligencia. El programa tendrá actualidad, debate, invitados y momentos emotivos.(n)</desc>
+  </programme>
+  <programme start="20220412123000 -0300" stop="20220412143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20220412143000 -0300" stop="20220412163000 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220412163000 -0300" stop="20220412171500 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220412171500 -0300" stop="20220412181500 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220412181500 -0300" stop="20220412190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220412190000 -0300" stop="20220412211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220412211500 -0300" stop="20220412223000 -0300" channel="Canal 4 HD">
+    <title lang="es">Los 8 escalones</title>
+    <desc lang="es">Un programa de preguntas y respuestas que premia el saber y el conocimiento.(n)</desc>
+  </programme>
+  <programme start="20220412223000 -0300" stop="20220412233000 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220412233000 -0300" stop="20220413003000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220413003000 -0300" stop="20220413023000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220413023000 -0300" stop="20220413060000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20220413060000 -0300" stop="20220413063000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20220413063000 -0300" stop="20220413070000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220413070000 -0300" stop="20220413080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía - Primera hora</title>
+    <desc lang="es">La mejor cobertura informativa todas las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413100000 -0300" channel="Canal 4 HD">
+    <title lang="es">Buen día</title>
+    <desc lang="es">En Buen Día Uruguay se abordan una variedad de temas: noticias, actualidad, cultura, sociedad, salud, moda, deportes, cocina, hobbies, decoración, sexualidad, trucos e ideas para el hogar.(n)</desc>
+  </programme>
+  <programme start="20220413100000 -0300" stop="20220413103000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220413103000 -0300" stop="20220413123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vamo arriba</title>
+    <desc lang="es">Actualidad, cocina y entretenimiento con Fede Paz, Andy Vila, El Rusito, Pablo Magno y Marcelo Bornio.Un programa que tiene todos los condimentos, entretenimiento, juegos con la gente, premios y plata.(n)</desc>
+  </programme>
+  <programme start="20220413123000 -0300" stop="20220413143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20220413143000 -0300" stop="20220413163000 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220413163000 -0300" stop="20220413171500 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220413171500 -0300" stop="20220413181500 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220413181500 -0300" stop="20220413190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220413190000 -0300" stop="20220413211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220413211500 -0300" stop="20220413231500 -0300" channel="Canal 4 HD">
+    <title lang="es">Bake Off Uruguay</title>
+    <desc lang="es">Bake Off Uruguay es un próximo programa de televisión uruguayo de pastelería emitido y producido por Canal 4, basado en el concurso británico The Great British Bake Off.(n)</desc>
+  </programme>
+  <programme start="20220413231500 -0300" stop="20220414001500 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220414001500 -0300" stop="20220414010000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220414010000 -0300" stop="20220414030000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220414030000 -0300" stop="20220414060000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20220414060000 -0300" stop="20220414063000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20220414063000 -0300" stop="20220414070000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220414070000 -0300" stop="20220414080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía - Primera hora</title>
+    <desc lang="es">La mejor cobertura informativa todas las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414100000 -0300" channel="Canal 4 HD">
+    <title lang="es">Buen día</title>
+    <desc lang="es">En Buen Día Uruguay se abordan una variedad de temas: noticias, actualidad, cultura, sociedad, salud, moda, deportes, cocina, hobbies, decoración, sexualidad, trucos e ideas para el hogar.(n)</desc>
+  </programme>
+  <programme start="20220414100000 -0300" stop="20220414103000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220414103000 -0300" stop="20220414123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vamo arriba</title>
+    <desc lang="es">Actualidad, cocina y entretenimiento con Fede Paz, Andy Vila, El Rusito, Pablo Magno y Marcelo Bornio.Un programa que tiene todos los condimentos, entretenimiento, juegos con la gente, premios y plata.(n)</desc>
+  </programme>
+  <programme start="20220414123000 -0300" stop="20220414143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20220414143000 -0300" stop="20220414163000 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220414163000 -0300" stop="20220414171500 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220414171500 -0300" stop="20220414181500 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220414181500 -0300" stop="20220414190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220414190000 -0300" stop="20220414211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220414211500 -0300" stop="20220414223000 -0300" channel="Canal 4 HD">
+    <title lang="es">Los 8 escalones</title>
+    <desc lang="es">Un programa de preguntas y respuestas que premia el saber y el conocimiento.(n)</desc>
+  </programme>
+  <programme start="20220414223000 -0300" stop="20220414233000 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220414233000 -0300" stop="20220415003000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220415003000 -0300" stop="20220415023000 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220415023000 -0300" stop="20220415060000 -0300" channel="Canal 4 HD">
+    <title lang="es">Fin de transmisión</title>
+    <desc lang="es">Fin de transmisión.(n)</desc>
+  </programme>
+  <programme start="20220415060000 -0300" stop="20220415063000 -0300" channel="Canal 4 HD">
+    <title lang="es">Show de la fe</title>
+    <desc lang="es">Emisión de evangelización y enseñanza de la palabra de Dios en donde el Misionero RR Soares aclara dudas, orienta a personas que le piden consejos por cartas y abre espacio a quienes desean hablar acerca de la obra del Señor.(n)</desc>
+  </programme>
+  <programme start="20220415063000 -0300" stop="20220415070000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220415070000 -0300" stop="20220415080000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía - Primera hora</title>
+    <desc lang="es">La mejor cobertura informativa todas las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220415080000 -0300" stop="20220415100000 -0300" channel="Canal 4 HD">
+    <title lang="es">Buen día</title>
+    <desc lang="es">En Buen Día Uruguay se abordan una variedad de temas: noticias, actualidad, cultura, sociedad, salud, moda, deportes, cocina, hobbies, decoración, sexualidad, trucos e ideas para el hogar.(n)</desc>
+  </programme>
+  <programme start="20220415100000 -0300" stop="20220415103000 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220415103000 -0300" stop="20220415123000 -0300" channel="Canal 4 HD">
+    <title lang="es">Vamo arriba</title>
+    <desc lang="es">Actualidad, cocina y entretenimiento con Fede Paz, Andy Vila, El Rusito, Pablo Magno y Marcelo Bornio.Un programa que tiene todos los condimentos, entretenimiento, juegos con la gente, premios y plata.(n)</desc>
+  </programme>
+  <programme start="20220415123000 -0300" stop="20220415143000 -0300" channel="Canal 4 HD">
+    <title lang="es">Teledía</title>
+    <desc lang="es">Todo lo que hay que saber, en una hora de noticias al mediodía. Lo más destacado del país y el mundo con la presentación de Yisela Moreira y Viviana Aguerre.(n)</desc>
+  </programme>
+  <programme start="20220415143000 -0300" stop="20220415163000 -0300" channel="Canal 4 HD">
+    <title lang="es">Algo contigo</title>
+    <desc lang="es">Todos los días te informamos de los acontecimientos y chimentos más importantes de la farándula local, regional e internacional.(n)</desc>
+  </programme>
+  <programme start="20220415163000 -0300" stop="20220415171500 -0300" channel="Canal 4 HD">
+    <title lang="es">Bien con Lourdes</title>
+    <desc lang="es">Lourdes Ferro, con un estilo propio, descontracturado y cercano al público, resignifica la astrología y el tarot utilizándolos como herramientas para empoderar a las personas y hacerlas conscientes de su potencial.(n)</desc>
+  </programme>
+  <programme start="20220415171500 -0300" stop="20220415181500 -0300" channel="Canal 4 HD">
+    <title lang="es">Un doctor genial</title>
+    <desc lang="es">Ates Hekimoglu es un médico famoso especializado en enfermedades infecciosas y nefrología. Cada nuevo caso complejo es provocativo y emocionante, como un rompecabezas esperando que lo resuelva.(n)</desc>
+  </programme>
+  <programme start="20220415181500 -0300" stop="20220415190000 -0300" channel="Canal 4 HD">
+    <title lang="es">Corazón en lucha</title>
+    <desc lang="es">Ali, un joven marinero criado en el mar, debe desembarcar en Estambul, su ciudad natal. Sin embargo esta nueva experiencia le traerá grandes sorpresas que cambiarán su vida.(n)</desc>
+  </programme>
+  <programme start="20220415190000 -0300" stop="20220415211500 -0300" channel="Canal 4 HD">
+    <title lang="es">Telenoche</title>
+    <desc lang="es">Una hora y media con toda la información nacional e internacional en la emisión central de Telenoche. Todo lo que pasó en el día, además de informes especiales.(n)</desc>
+  </programme>
+  <programme start="20220415211500 -0300" stop="20220415221500 -0300" channel="Canal 4 HD">
+    <title lang="es">En foco</title>
+    <desc lang="es">Sebastián Beltrame recorre el país y deja en evidencia la belleza de nuestros paisajes y costumbres.(n)</desc>
+  </programme>
+  <programme start="20220415221500 -0300" stop="20220415233000 -0300" channel="Canal 4 HD">
+    <title lang="es">Reenviado</title>
+    <desc lang="es">Hay videos que nos llegan a través de las redes sociales que merecen ser compartidos. En Reenviado disfrutamos de lo que nos dan las nuevas tecnologías con toda la familia. Divertido, gracioso y emocionante.(n)</desc>
+  </programme>
+  <programme start="20220412123000 -0300" stop="20220412143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20220412143000 -0300" stop="20220412160000 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20220412160000 -0300" stop="20220412170000 -0300" channel="La Tele HD">
+    <title lang="es">Corran por sus vidas</title>
+    <desc lang="es">Alexia, Luna y Kyra deben unirse al Programa de Protección de Testigos y cambiar sus vidas después de presenciar un crimen. Cambian sus nombres, apariencias y estilos de vida, y viven en una pequeña ciudad después de fingir sus muertes.(n)</desc>
+  </programme>
+  <programme start="20220412170000 -0300" stop="20220412180000 -0300" channel="La Tele HD">
+    <title lang="es">Rock Story</title>
+    <desc lang="es">Gui es un cantante de rock que fue muy famoso y ahora desea renacer artísticamente, por lo que vive una tormentosa relación con la hija del dueño de una discográfica. Todo se complica cuando Gui descubre que es padre de un pequeño.(n)</desc>
+  </programme>
+  <programme start="20220412180000 -0300" stop="20220412185500 -0300" channel="La Tele HD">
+    <title lang="es">Si nos dejan</title>
+    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
+  </programme>
+  <programme start="20220412185500 -0300" stop="20220412211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20220412211500 -0300" stop="20220412223000 -0300" channel="La Tele HD">
+    <title lang="es">El desafío</title>
+    <desc lang="es">Un grupo de ocho famosos se enfrentarán a difíciles pruebas cada semana con el objetivo de ser el mejor en el juego. Estos participantes tendrán que rendir al máximo en algunas pruebas fijas que tendrá cada emisión.(n)</desc>
+  </programme>
+  <programme start="20220412223000 -0300" stop="20220412234500 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20220412234500 -0300" stop="20220413004500 -0300" channel="La Tele HD">
+    <title lang="es">Killing Eve</title>
+    <desc lang="es">Eve es una agente del MI5 que está cansada de su trabajo de escritorio. Villanelle es una talentosa asesina. Las vidas de estas dos mujeres, obsesionadas la una con la otra, se verán atrapadas en una eterna persecución mutua.(n)</desc>
+  </programme>
+  <programme start="20220413004500 -0300" stop="20220413024500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220413024500 -0300" stop="20220413055000 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220413055000 -0300" stop="20220413065000 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220413065000 -0300" stop="20220413065500 -0300" channel="La Tele HD">
+    <title lang="es">Himno Nacional</title>
+  </programme>
+  <programme start="20220413065500 -0300" stop="20220413080000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo de mañana</title>
+    <desc lang="es">Telemundo de mañana, una forma amena de informarse de lo que hay que saber para salir de casa.(n)</desc>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413100000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Primera mañana</title>
+    <desc lang="es">La mañana de La Tele se renueva con Desayunos Informales, una propuesta diferente para arrancar el día de la mejor manera.(n)</desc>
+  </programme>
+  <programme start="20220413100000 -0300" stop="20220413120000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Segunda mañana</title>
+    <desc lang="es">Victoria Zangaro y Jorge "Coco" Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220413120000 -0300" stop="20220413123000 -0300" channel="La Tele HD">
+    <title lang="es">La receta</title>
+    <desc lang="es">Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.(n)</desc>
+  </programme>
+  <programme start="20220413123000 -0300" stop="20220413143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20220413143000 -0300" stop="20220413160000 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20220413160000 -0300" stop="20220413170000 -0300" channel="La Tele HD">
+    <title lang="es">Corran por sus vidas</title>
+    <desc lang="es">Alexia, Luna y Kyra deben unirse al Programa de Protección de Testigos y cambiar sus vidas después de presenciar un crimen. Cambian sus nombres, apariencias y estilos de vida, y viven en una pequeña ciudad después de fingir sus muertes.(n)</desc>
+  </programme>
+  <programme start="20220413170000 -0300" stop="20220413180000 -0300" channel="La Tele HD">
+    <title lang="es">Rock Story</title>
+    <desc lang="es">Gui es un cantante de rock que fue muy famoso y ahora desea renacer artísticamente, por lo que vive una tormentosa relación con la hija del dueño de una discográfica. Todo se complica cuando Gui descubre que es padre de un pequeño.(n)</desc>
+  </programme>
+  <programme start="20220413180000 -0300" stop="20220413185500 -0300" channel="La Tele HD">
+    <title lang="es">Si nos dejan</title>
+    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
+  </programme>
+  <programme start="20220413185500 -0300" stop="20220413211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20220413211500 -0300" stop="20220413220000 -0300" channel="La Tele HD">
+    <title lang="es">Trato hecho</title>
+    <desc lang="es">Un nuevo trato, más diversión familiar. Ahora con doble chance de ganar.(n)</desc>
+  </programme>
+  <programme start="20220413220000 -0300" stop="20220413220500 -0300" channel="La Tele HD">
+    <title lang="es">Sorteo del 5 de oro</title>
+    <desc lang="es">Lotería en la que se anuncian los números ganadores del par millonario, triples y terminales, para que pruebes tu suerte y ganes al instante.(n)</desc>
+  </programme>
+  <programme start="20220413220500 -0300" stop="20220413223000 -0300" channel="La Tele HD">
+    <title lang="es">Trato hecho</title>
+    <desc lang="es">Un nuevo trato, más diversión familiar. Ahora con doble chance de ganar.(n)</desc>
+  </programme>
+  <programme start="20220413223000 -0300" stop="20220413234500 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20220413234500 -0300" stop="20220414004500 -0300" channel="La Tele HD">
+    <title lang="es">Killing Eve</title>
+    <desc lang="es">Eve es una agente del MI5 que está cansada de su trabajo de escritorio. Villanelle es una talentosa asesina. Las vidas de estas dos mujeres, obsesionadas la una con la otra, se verán atrapadas en una eterna persecución mutua.(n)</desc>
+  </programme>
+  <programme start="20220414004500 -0300" stop="20220414024500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220414024500 -0300" stop="20220414054500 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220414054500 -0300" stop="20220414055500 -0300" channel="La Tele HD">
+    <title lang="es">TV educativa</title>
+    <desc lang="es">Micros especiales cuyo objetivo es instruir a la familia sobre temas variados. En cada una de los segmentos se presentan informaciones de utilidad para educar y culturizar a los televidentes y, así, construir una mejor sociedad.(n)</desc>
+  </programme>
+  <programme start="20220414055500 -0300" stop="20220414065500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220414065500 -0300" stop="20220414080000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo de mañana</title>
+    <desc lang="es">Telemundo de mañana, una forma amena de informarse de lo que hay que saber para salir de casa.(n)</desc>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414100000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Primera mañana</title>
+    <desc lang="es">La mañana de La Tele se renueva con Desayunos Informales, una propuesta diferente para arrancar el día de la mejor manera.(n)</desc>
+  </programme>
+  <programme start="20220414100000 -0300" stop="20220414120000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Segunda mañana</title>
+    <desc lang="es">Victoria Zangaro y Jorge "Coco" Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220414120000 -0300" stop="20220414123000 -0300" channel="La Tele HD">
+    <title lang="es">La receta</title>
+    <desc lang="es">Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.(n)</desc>
+  </programme>
+  <programme start="20220414123000 -0300" stop="20220414143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20220414143000 -0300" stop="20220414160000 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20220414160000 -0300" stop="20220414170000 -0300" channel="La Tele HD">
+    <title lang="es">Corran por sus vidas</title>
+    <desc lang="es">Alexia, Luna y Kyra deben unirse al Programa de Protección de Testigos y cambiar sus vidas después de presenciar un crimen. Cambian sus nombres, apariencias y estilos de vida, y viven en una pequeña ciudad después de fingir sus muertes.(n)</desc>
+  </programme>
+  <programme start="20220414170000 -0300" stop="20220414180000 -0300" channel="La Tele HD">
+    <title lang="es">Rock Story</title>
+    <desc lang="es">Gui es un cantante de rock que fue muy famoso y ahora desea renacer artísticamente, por lo que vive una tormentosa relación con la hija del dueño de una discográfica. Todo se complica cuando Gui descubre que es padre de un pequeño.(n)</desc>
+  </programme>
+  <programme start="20220414180000 -0300" stop="20220414185500 -0300" channel="La Tele HD">
+    <title lang="es">Si nos dejan</title>
+    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
+  </programme>
+  <programme start="20220414185500 -0300" stop="20220414211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20220414211500 -0300" stop="20220414223000 -0300" channel="La Tele HD">
+    <title lang="es">100 uruguayos dicen</title>
+    <desc lang="es">Dos familias se enfrentarán para adivinar qué piensan los uruguayos sobre distintos temas. Cada familia deberá pensar muy bien que responder ya que no hay respuestas correctas, solo populares.(n)</desc>
+  </programme>
+  <programme start="20220414223000 -0300" stop="20220414234500 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20220414234500 -0300" stop="20220415004500 -0300" channel="La Tele HD">
+    <title lang="es">Chicago P.D</title>
+    <desc lang="es">La investigación de una serie de asesinatos posiblemente relacionados con una pandilla colombiana de narcotraficantes.(n)</desc>
+  </programme>
+  <programme start="20220415004500 -0300" stop="20220415024500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220415024500 -0300" stop="20220415055500 -0300" channel="La Tele HD">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220415055500 -0300" stop="20220415065500 -0300" channel="La Tele HD">
+    <title lang="es">Iglesia universal</title>
+    <desc lang="es">Tiene por objetivo predicar el Evangelio a los seguidores de esta vertiente religiosa.(n)</desc>
+  </programme>
+  <programme start="20220415065500 -0300" stop="20220415080000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo de mañana</title>
+    <desc lang="es">Telemundo de mañana, una forma amena de informarse de lo que hay que saber para salir de casa.(n)</desc>
+  </programme>
+  <programme start="20220415080000 -0300" stop="20220415100000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Primera mañana</title>
+    <desc lang="es">La mañana de La Tele se renueva con Desayunos Informales, una propuesta diferente para arrancar el día de la mejor manera.(n)</desc>
+  </programme>
+  <programme start="20220415100000 -0300" stop="20220415120000 -0300" channel="La Tele HD">
+    <title lang="es">Desayunos informales - Segunda mañana</title>
+    <desc lang="es">Victoria Zangaro y Jorge "Coco" Echagüe, junto a Lucia Brocal, Marcel Keoroglian, Martín Angolini y Camila Rajchman, se encargarán de sumar alegría a las mañanas.(n)</desc>
+  </programme>
+  <programme start="20220415120000 -0300" stop="20220415123000 -0300" channel="La Tele HD">
+    <title lang="es">La receta</title>
+    <desc lang="es">Catalina Palleja nos acerca increíbles recetas, buenos consejos y nuevos tips para que disfrutes de tu cocina.(n)</desc>
+  </programme>
+  <programme start="20220415123000 -0300" stop="20220415143000 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo mediodía</title>
+    <desc lang="es">Resumen informativo de las noticias del día.(n)</desc>
+  </programme>
+  <programme start="20220415143000 -0300" stop="20220415160000 -0300" channel="La Tele HD">
+    <title lang="es">Esta boca es mía</title>
+    <desc lang="es">Victoria Rodríguez vuelve con el exitoso talk show de la tarde, totalmente renovado. Para hablar y debatir sobre los temas que nos interesan a todos.(n)</desc>
+  </programme>
+  <programme start="20220415160000 -0300" stop="20220415170000 -0300" channel="La Tele HD">
+    <title lang="es">Corran por sus vidas</title>
+    <desc lang="es">Alexia, Luna y Kyra deben unirse al Programa de Protección de Testigos y cambiar sus vidas después de presenciar un crimen. Cambian sus nombres, apariencias y estilos de vida, y viven en una pequeña ciudad después de fingir sus muertes.(n)</desc>
+  </programme>
+  <programme start="20220415170000 -0300" stop="20220415180000 -0300" channel="La Tele HD">
+    <title lang="es">Rock Story</title>
+    <desc lang="es">Gui es un cantante de rock que fue muy famoso y ahora desea renacer artísticamente, por lo que vive una tormentosa relación con la hija del dueño de una discográfica. Todo se complica cuando Gui descubre que es padre de un pequeño.(n)</desc>
+  </programme>
+  <programme start="20220415180000 -0300" stop="20220415185500 -0300" channel="La Tele HD">
+    <title lang="es">Si nos dejan</title>
+    <desc lang="es">Después de haberle dedicado una vida entera a su familia y esposo, el mundo de Alicia cambiará por completo tras una traición. La aparición de Martín le devolverá la alegría para reconstruir su vida y cumplir los sueños que abandonó.(n)</desc>
+  </programme>
+  <programme start="20220415185500 -0300" stop="20220415211500 -0300" channel="La Tele HD">
+    <title lang="es">Telemundo edición central</title>
+  </programme>
+  <programme start="20220415211500 -0300" stop="20220415223000 -0300" channel="La Tele HD">
+    <title lang="es">Algo que decir</title>
+    <desc lang="es">Cecilia Bonino y Pablo Fabregat vuelven con un nuevo programa de invitados que dará mucho de qué hablar.(n)</desc>
+  </programme>
+  <programme start="20220415223000 -0300" stop="20220415234500 -0300" channel="La Tele HD">
+    <title lang="es">La culpa es de Colón</title>
+    <desc lang="es">Cinco hombres y cinco mujeres comediantes se enfrentan para debatir, confesar y filosofar sobre el sexo opuesto... con picardía y humor.(n)</desc>
+  </programme>
+  <programme start="20220412130000 -0300" stop="20220412140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220412140000 -0300" stop="20220412160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20220412160000 -0300" stop="20220412180000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220412180000 -0300" stop="20220412185500 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20220412185500 -0300" stop="20220412203000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220412203000 -0300" stop="20220412210000 -0300" channel="TNU HD">
+    <title lang="es">Enlaces</title>
+    <desc lang="es">Riguroso y entretenido a la vez, presenta temas relevantes del mundo digital con un profundo enfoque periodístico: los desafíos de las redes sociales, la seguridad en Internet o la red como plataforma de agitación política.(n)</desc>
+  </programme>
+  <programme start="20220412210000 -0300" stop="20220412223000 -0300" channel="TNU HD">
+    <title lang="es">La vuelta ciclista</title>
+    <desc lang="es">El resumen de cada etapa de la vuelta Ciclista de Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220412223000 -0300" stop="20220412233000 -0300" channel="TNU HD">
+    <title lang="es">Atlántico Sur</title>
+    <desc lang="es">Documental grabado a lo largo de toda la costa argentina que presenta el más extensivo registro de los ecosistemas marinos, desde la exuberante isla de los Estados, en la Provincia de Tierra del Fuego, hasta la Provincia de Buenos Aires.(n)</desc>
+  </programme>
+  <programme start="20220412233000 -0300" stop="20220413000000 -0300" channel="TNU HD">
+    <title lang="es">¡Escápate! - La guía del viajero</title>
+    <desc lang="es">Guía a través de la cual conocerás los más imponentes lugares turísticos de Alemania y el extranjero, donde los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias de cada lugar visitado.(n)</desc>
+  </programme>
+  <programme start="20220413000000 -0300" stop="20220413003000 -0300" channel="TNU HD">
+    <title lang="es">Autosustentables</title>
+    <desc lang="es">El documentalista Elías Sáez y la antropóloga Violeta Ramírez viajan a distintos lugares del país en busca de soluciones a los problemas ambientales más urgentes.(n)</desc>
+  </programme>
+  <programme start="20220413003000 -0300" stop="20220413013000 -0300" channel="TNU HD">
+    <title lang="es">Patrimonio silencioso</title>
+    <desc lang="es">Recorremos diferentes lugares emblemáticos de Montevideo para mostrar cómo se ven ahora, vacíos, en silencio.(n)</desc>
+  </programme>
+  <programme start="20220413013000 -0300" stop="20220413023000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220413023000 -0300" stop="20220413033000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220413033000 -0300" stop="20220413053000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220413053000 -0300" stop="20220413073000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220413073000 -0300" stop="20220413080000 -0300" channel="TNU HD">
+    <title lang="es">Agroinforme</title>
+    <desc lang="es">Agroinforme, el informativo agropecuario pionero en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413090000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220413090000 -0300" stop="20220413110000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220413110000 -0300" stop="20220413120000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220413120000 -0300" stop="20220413130000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220413130000 -0300" stop="20220413140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220413140000 -0300" stop="20220413160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20220413160000 -0300" stop="20220413180000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220413180000 -0300" stop="20220413185500 -0300" channel="TNU HD">
+    <title lang="es">Uruguayos en la bienal de Venecia</title>
+  </programme>
+  <programme start="20220413185500 -0300" stop="20220413203000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220413203000 -0300" stop="20220413210000 -0300" channel="TNU HD">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220413210000 -0300" stop="20220413223000 -0300" channel="TNU HD">
+    <title lang="es">La vuelta ciclista</title>
+    <desc lang="es">El resumen de cada etapa de la vuelta Ciclista de Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220413223000 -0300" stop="20220414003000 -0300" channel="TNU HD">
+    <title lang="es">El comisario Montalbano</title>
+    <desc lang="es">El comisario Montalbano trabaja junto a sus colaboradores Augello, los inspectores Fazio y Gallo, el telefonista Catarela y el agente Galluzo. Es un personaje peculiar que respeta la ley hasta que decide romperla para resolver sus casos.(n)</desc>
+  </programme>
+  <programme start="20220414003000 -0300" stop="20220414010000 -0300" channel="TNU HD">
+    <title lang="es">Social &amp; Co</title>
+    <desc lang="es">Una serie que invita a conocer otra de filosofía de empresas que propone un camino hacia nuevas economías sustentables.(n)</desc>
+  </programme>
+  <programme start="20220414010000 -0300" stop="20220414013000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20220414013000 -0300" stop="20220414023000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220414023000 -0300" stop="20220414033000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220414033000 -0300" stop="20220414053000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220414053000 -0300" stop="20220414073000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220414073000 -0300" stop="20220414080000 -0300" channel="TNU HD">
+    <title lang="es">Agroinforme</title>
+    <desc lang="es">Agroinforme, el informativo agropecuario pionero en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414090000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220414090000 -0300" stop="20220414110000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220414110000 -0300" stop="20220414120000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220414120000 -0300" stop="20220414130000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220414130000 -0300" stop="20220414140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220414140000 -0300" stop="20220414160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20220414160000 -0300" stop="20220414180000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220414180000 -0300" stop="20220414185500 -0300" channel="TNU HD">
+    <title lang="es">EPA</title>
+    <desc lang="es">Información sobre toda la actividad cultural del país con la participación de los artistas y la agenda de la semana.(n)</desc>
+  </programme>
+  <programme start="20220414185500 -0300" stop="20220414203000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220414203000 -0300" stop="20220414210000 -0300" channel="TNU HD">
+    <title lang="es">Cultura.21</title>
+    <desc lang="es">Espacio que presenta a los protagonistas, detecta las ideas nuevas, explica los grandes debates y está presente en los eventos más destacados de la temporada. Un periodismo que examina con atención el espíritu del momento.(n)</desc>
+  </programme>
+  <programme start="20220414210000 -0300" stop="20220414223000 -0300" channel="TNU HD">
+    <title lang="es">La vuelta ciclista</title>
+    <desc lang="es">El resumen de cada etapa de la vuelta Ciclista de Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220414223000 -0300" stop="20220414230000 -0300" channel="TNU HD">
+    <title lang="es">Quién es quién</title>
+    <desc lang="es">Quien es Quien, es un programa periodístico conducido por Gustavo Vaneskahian, que analiza, a través de entrevistas a los principales protagonistas de la vida política, los temas relevantes y de mayor trascendencia para el Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220414230000 -0300" stop="20220415000000 -0300" channel="TNU HD">
+    <title lang="es">Patrimonio silencioso</title>
+    <desc lang="es">Recorremos diferentes lugares emblemáticos de Montevideo para mostrar cómo se ven ahora, vacíos, en silencio.(n)</desc>
+  </programme>
+  <programme start="20220415000000 -0300" stop="20220415010000 -0300" channel="TNU HD">
+    <title lang="es">Historias propias</title>
+    <desc lang="es">Historias de vida de gente común. Cocineros, raidistas, científicos, panaderos, deportistas, etc. Historias con voz propia vistas desde otra mirada.(n)</desc>
+  </programme>
+  <programme start="20220415010000 -0300" stop="20220415013000 -0300" channel="TNU HD">
+    <title lang="es">Diseño para habitar</title>
+    <desc lang="es">Un recorrido por diversos estilos arquitectónicos contado en primera persona por sus creadores. Los arquitectos muestran como el confort, la practicidad y la funcionalidad conviven en estructuras de última generación.(n)</desc>
+  </programme>
+  <programme start="20220415013000 -0300" stop="20220415023000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220415023000 -0300" stop="20220415033000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220415033000 -0300" stop="20220415053000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220415053000 -0300" stop="20220415073000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220415073000 -0300" stop="20220415080000 -0300" channel="TNU HD">
+    <title lang="es">Agroinforme</title>
+    <desc lang="es">Agroinforme, el informativo agropecuario pionero en la televisión uruguaya.(n)</desc>
+  </programme>
+  <programme start="20220415080000 -0300" stop="20220415090000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220415090000 -0300" stop="20220415110000 -0300" channel="TNU HD">
+    <title lang="es">Modo país</title>
+    <desc lang="es">Todos los programas y lugares conectados en un entretenido y novedoso "magazine de magazines".(n)</desc>
+  </programme>
+  <programme start="20220415110000 -0300" stop="20220415120000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220415120000 -0300" stop="20220415130000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220415130000 -0300" stop="20220415140000 -0300" channel="TNU HD">
+    <title lang="es">Basta de cháchara</title>
+    <desc lang="es">Para pasarla muy bien juntos, con toda la actualidad, las entrevistas, la cocina del chef Uruguay, las noticias de Info-TNU y todos los temas de tu intéres.(n)</desc>
+  </programme>
+  <programme start="20220415140000 -0300" stop="20220415160000 -0300" channel="TNU HD">
+    <title lang="es">Buscadores</title>
+    <desc lang="es">Buscadores, el programa periodístico y de interés general que te acompaña tarde a tarde en Televisión Nacional.(n)</desc>
+  </programme>
+  <programme start="20220415160000 -0300" stop="20220415180000 -0300" channel="TNU HD">
+    <title lang="es">El living</title>
+    <desc lang="es">Actualidad, información, cultura y entretenimiento. Nos hacen compania en todos los rincones del país. Las nuevas tardes del 5 con la conducción de Paula Echavarría, acompañada de Rosario Collazo y Alejo Piazza.(n)</desc>
+  </programme>
+  <programme start="20220415180000 -0300" stop="20220415185500 -0300" channel="TNU HD">
+    <title lang="es">Concentrados</title>
+    <desc lang="es">Nacionales, internacionales, cuestiones de juego, resultados, hinchas, goles, tantos, llaves, puntos, desarrollo, política, alto rendimiento. Todos los días, todos los deportes.(n)</desc>
+  </programme>
+  <programme start="20220415185500 -0300" stop="20220415203000 -0300" channel="TNU HD">
+    <title lang="es">Canal 5 noticias</title>
+    <desc lang="es">Espacio informativo.(n)</desc>
+  </programme>
+  <programme start="20220415203000 -0300" stop="20220415210000 -0300" channel="TNU HD">
+    <title lang="es">¡Escápate! - La guía del viajero</title>
+    <desc lang="es">Guía a través de la cual conocerás los más imponentes lugares turísticos de Alemania y el extranjero, donde los presentadores escalan, bucean, caminan y también degustan las especialidades culinarias de cada lugar visitado.(n)</desc>
+  </programme>
+  <programme start="20220415210000 -0300" stop="20220415223000 -0300" channel="TNU HD">
+    <title lang="es">La vuelta ciclista</title>
+    <desc lang="es">El resumen de cada etapa de la vuelta Ciclista de Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220412133000 -0300" stop="20220412180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La criolla</title>
+    <desc lang="es">Presentamos concursos de jineteadas y su premiación, además de informes sobre oficios, payadores e historias que forman parte del universo de las Criollas. Con la conducción de Eduardo Vasco Etchevarne y Flavio Lees.(n)</desc>
+  </programme>
+  <programme start="20220412180000 -0300" stop="20220412190000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220412190000 -0300" stop="20220412200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220412200000 -0300" stop="20220412203000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220412203000 -0300" stop="20220412204500 -0300" channel="TV Ciudad HD">
+    <title lang="es">Tiempo libre</title>
+  </programme>
+  <programme start="20220412204500 -0300" stop="20220412210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Tiempo libre</title>
+  </programme>
+  <programme start="20220412210000 -0300" stop="20220412220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La letra chica</title>
+    <desc lang="es">Una nueva forma de analizar la realidad, buscando sumar una voz diferente y comprometida con la actualidad. Mediante Informes, entrevistas, invitados y el análisis de destacados especialistas, para conocer el detrás de cada noticia.(n)</desc>
+  </programme>
+  <programme start="20220412220000 -0300" stop="20220412230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Historia de la música popular Uruguaya. 1960 - 1965</title>
+    <desc lang="es">Serie que cuenta la historia de la música uruguaya desde la década del 60 hasta el año 1990. Un repaso por los hechos más destacados con imágenes de época, testimonios y un recorrido por los diferentes géneros.(n)</desc>
+  </programme>
+  <programme start="20220412230000 -0300" stop="20220413000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Sin fronteras</title>
+    <desc lang="es">Recorre festivales y festividades de todo el interior uruguayo, recogiendo sonidos e imágenes, destacando nuevos intérpretes de la música nacional y rescatando las costumbres y la cultura tradicionales del país.(n)</desc>
+  </programme>
+  <programme start="20220413000000 -0300" stop="20220413010000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La letra chica</title>
+    <desc lang="es">Una nueva forma de analizar la realidad, buscando sumar una voz diferente y comprometida con la actualidad. Mediante Informes, entrevistas, invitados y el análisis de destacados especialistas, para conocer el detrás de cada noticia.(n)</desc>
+  </programme>
+  <programme start="20220413010000 -0300" stop="20220413020000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220413020000 -0300" stop="20220413070000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20220413070000 -0300" stop="20220413080000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220413080000 -0300" stop="20220413083000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Primera edición</title>
+  </programme>
+  <programme start="20220413083000 -0300" stop="20220413100000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La ciudad viva</title>
+    <desc lang="es">Repasa el dinamismo de una ciudad en constante evolución arquitectónica como Bilbao.(n)</desc>
+  </programme>
+  <programme start="20220413100000 -0300" stop="20220413110000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220413110000 -0300" stop="20220413120000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Cocinemos</title>
+    <desc lang="es">Lucila Rada junto a las nutricionistas Viviana Santín, Verónica Olaizola y la nutricionista y cocinera Agustina Albez, con el objetivo de promover una alimentación saludable, proponen recetas fáciles, saludables y económicas.(n)</desc>
+  </programme>
+  <programme start="20220413120000 -0300" stop="20220413130000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220413130000 -0300" stop="20220413133000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Mediodía</title>
+  </programme>
+  <programme start="20220413133000 -0300" stop="20220413180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La criolla</title>
+    <desc lang="es">Presentamos concursos de jineteadas y su premiación, además de informes sobre oficios, payadores e historias que forman parte del universo de las Criollas. Con la conducción de Eduardo Vasco Etchevarne y Flavio Lees.(n)</desc>
+  </programme>
+  <programme start="20220413180000 -0300" stop="20220413190000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220413190000 -0300" stop="20220413200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220413200000 -0300" stop="20220413203000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220413203000 -0300" stop="20220413204500 -0300" channel="TV Ciudad HD">
+    <title lang="es">Miles de ciudades</title>
+    <desc lang="es">Serie documental que propone repensar las ciudades uruguayas.(n)</desc>
+  </programme>
+  <programme start="20220413204500 -0300" stop="20220413210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Tiempo libre</title>
+  </programme>
+  <programme start="20220413210000 -0300" stop="20220413220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La letra chica</title>
+    <desc lang="es">Una nueva forma de analizar la realidad, buscando sumar una voz diferente y comprometida con la actualidad. Mediante Informes, entrevistas, invitados y el análisis de destacados especialistas, para conocer el detrás de cada noticia.(n)</desc>
+  </programme>
+  <programme start="20220413220000 -0300" stop="20220413230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Sobreciencia</title>
+    <desc lang="es">Único espacio periodístico de ciencia e innovación de Uruguay.(n)</desc>
+  </programme>
+  <programme start="20220413230000 -0300" stop="20220413233000 -0300" channel="TV Ciudad HD">
+    <title lang="es">F22. Florencia Durán</title>
+    <desc lang="es">Programa del Centro de Fotografía de Montevideo, con entrevistas en profundidad a fotógrafos/as y artistas uruguayos/as que forman parte de una generación "bisagra": quienes vivieron el mundo analógico y se adaptaron al digital.(n)</desc>
+  </programme>
+  <programme start="20220413233000 -0300" stop="20220414000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Café Chéjov</title>
+    <desc lang="es">Edición en donde la palabra se vuelve imagen a través de la literatura, con un recorrido que muestra sus máximos exponentes, historias, logros, motivaciones y algunas recomendaciones para los amantes del género.(n)</desc>
+  </programme>
+  <programme start="20220414000000 -0300" stop="20220414010000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La letra chica</title>
+    <desc lang="es">Una nueva forma de analizar la realidad, buscando sumar una voz diferente y comprometida con la actualidad. Mediante Informes, entrevistas, invitados y el análisis de destacados especialistas, para conocer el detrás de cada noticia.(n)</desc>
+  </programme>
+  <programme start="20220414010000 -0300" stop="20220414020000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220414020000 -0300" stop="20220414070000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20220414070000 -0300" stop="20220414080000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220414080000 -0300" stop="20220414083000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Primera edición</title>
+  </programme>
+  <programme start="20220414083000 -0300" stop="20220414100000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La ciudad viva</title>
+    <desc lang="es">Repasa el dinamismo de una ciudad en constante evolución arquitectónica como Bilbao.(n)</desc>
+  </programme>
+  <programme start="20220414100000 -0300" stop="20220414110000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220414110000 -0300" stop="20220414120000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Cocinemos</title>
+    <desc lang="es">Lucila Rada junto a las nutricionistas Viviana Santín, Verónica Olaizola y la nutricionista y cocinera Agustina Albez, con el objetivo de promover una alimentación saludable, proponen recetas fáciles, saludables y económicas.(n)</desc>
+  </programme>
+  <programme start="20220414120000 -0300" stop="20220414130000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220414130000 -0300" stop="20220414133000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Mediodía</title>
+  </programme>
+  <programme start="20220414133000 -0300" stop="20220414180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La criolla</title>
+    <desc lang="es">Presentamos concursos de jineteadas y su premiación, además de informes sobre oficios, payadores e historias que forman parte del universo de las Criollas. Con la conducción de Eduardo Vasco Etchevarne y Flavio Lees.(n)</desc>
+  </programme>
+  <programme start="20220414180000 -0300" stop="20220414190000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220414190000 -0300" stop="20220414200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220414200000 -0300" stop="20220414203000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220414203000 -0300" stop="20220414210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La abuela Sofía. Caprichos</title>
+    <desc lang="es">Cuenta la historia del reencuentro entre un nieto y su abuela, en los últimos años de su vida. Lo que empezó siendo una despedida, terminó transformándose en una oportunidad para descubrir que el amor y la música pueden transformarlo todo.(n)</desc>
+  </programme>
+  <programme start="20220414210000 -0300" stop="20220414220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Cambalache. La historia</title>
+    <desc lang="es">Una serie que retrata el cambio de los estereotipos en el tango a través de diferentes historias, y que refleja la forma en la que, a su vez, cambia nuestra sociedad.(n)</desc>
+  </programme>
+  <programme start="20220414220000 -0300" stop="20220414230000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Relatos</title>
+    <desc lang="es">Ana Laura Pérez te propone cada semana una nueva mirada de ver las cosas.(n)</desc>
+  </programme>
+  <programme start="20220414230000 -0300" stop="20220414233000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Guía de diseño mexicano</title>
+  </programme>
+  <programme start="20220414233000 -0300" stop="20220415000000 -0300" channel="TV Ciudad HD">
+    <title lang="es">México negro</title>
+  </programme>
+  <programme start="20220415000000 -0300" stop="20220415010000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220415010000 -0300" stop="20220415070000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Videoclips. Nostalgia en TV ciudad</title>
+  </programme>
+  <programme start="20220415070000 -0300" stop="20220415080000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220415080000 -0300" stop="20220415083000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Primera edición</title>
+  </programme>
+  <programme start="20220415083000 -0300" stop="20220415100000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La ciudad viva</title>
+    <desc lang="es">Repasa el dinamismo de una ciudad en constante evolución arquitectónica como Bilbao.(n)</desc>
+  </programme>
+  <programme start="20220415100000 -0300" stop="20220415110000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En movimiento</title>
+    <desc lang="es">Clases de gimnasia a cargo de profesores y profesoras de los programas Personas Mayores y Atención a Personas con Discapacidad de la Secretaría de Educación Física, Deporte y Recreación de la Intendencia de Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220415110000 -0300" stop="20220415120000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Cocinemos</title>
+    <desc lang="es">Lucila Rada junto a las nutricionistas Viviana Santín, Verónica Olaizola y la nutricionista y cocinera Agustina Albez, con el objetivo de promover una alimentación saludable, proponen recetas fáciles, saludables y económicas.(n)</desc>
+  </programme>
+  <programme start="20220415120000 -0300" stop="20220415130000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220415130000 -0300" stop="20220415133000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Mediodía</title>
+  </programme>
+  <programme start="20220415133000 -0300" stop="20220415180000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La criolla</title>
+    <desc lang="es">Presentamos concursos de jineteadas y su premiación, además de informes sobre oficios, payadores e historias que forman parte del universo de las Criollas. Con la conducción de Eduardo Vasco Etchevarne y Flavio Lees.(n)</desc>
+  </programme>
+  <programme start="20220415180000 -0300" stop="20220415190000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Mirá Montevideo</title>
+    <desc lang="es">Un programa de actualidad que cuenta con todas las novedades de cultura, deporte, acciones solidarias y todo lo que pasa en Montevideo.(n)</desc>
+  </programme>
+  <programme start="20220415190000 -0300" stop="20220415200000 -0300" channel="TV Ciudad HD">
+    <title lang="es">MVD Noticias - Edición central</title>
+  </programme>
+  <programme start="20220415200000 -0300" stop="20220415203000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220415203000 -0300" stop="20220415210000 -0300" channel="TV Ciudad HD">
+    <title lang="es">La abuela Sofía. Olvido</title>
+    <desc lang="es">Cuenta la historia del reencuentro entre un nieto y su abuela, en los últimos años de su vida. Lo que empezó siendo una despedida, terminó transformándose en una oportunidad para descubrir que el amor y la música pueden transformarlo todo.(n)</desc>
+  </programme>
+  <programme start="20220415210000 -0300" stop="20220415220000 -0300" channel="TV Ciudad HD">
+    <title lang="es">Que no quede nadie atrás</title>
+    <desc lang="es">Una iniciativa conjunta entre Telefe y el Centro de Información de Naciones Unidas Argentina que busca reflejar cómo la ONU y el mundo están enfrentando los retos globales en general y la pandemia en particular.(n)</desc>
+  </programme>
+  <programme start="20220415220000 -0300" stop="20220415233000 -0300" channel="TV Ciudad HD">
+    <title lang="es">En la cama</title>
+    <desc lang="es">Narra la historia de Daniela y Bruno que, tras un encuentro de sexo casual, y al contrario de lo que en principio intuían, deciden hablar. Situación que desencadena decisiones concretas que cambiarán sus existencias y perspectivas.(n)</desc>
+  </programme>
+  <programme start="20220415233000 -0300" stop="20220415234500 -0300" channel="TV Ciudad HD">
+    <title lang="es">Montevideo Music Group Sessions. Juan y Rafa</title>
+    <desc lang="es">Compilaciones del catálogo 2021 y adelantos de futuros lanzamientos.(n)</desc>
+  </programme>
+  <programme start="20220412003000 -0400" stop="20220412013000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220412013000 -0400" stop="20220412033000 -0400" channel="VTV">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Boston River - Nacional / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412033000 -0400" stop="20220412043000 -0400" channel="VTV">
+    <title lang="es">Días de Gloria / Rep.</title>
+  </programme>
+  <programme start="20220412043000 -0400" stop="20220412050000 -0400" channel="VTV">
+    <title lang="es">Mundo Ecuestre / Rep.</title>
+  </programme>
+  <programme start="20220412050000 -0400" stop="20220412060000 -0400" channel="VTV">
+    <title lang="es">La Mesa de Motores / Rep.</title>
+  </programme>
+  <programme start="20220412060000 -0400" stop="20220412070000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220412070000 -0400" stop="20220412080000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado</title>
+  </programme>
+  <programme start="20220412080000 -0400" stop="20220412100000 -0400" channel="VTV">
+    <title lang="es">Buscadores / Rep.</title>
+  </programme>
+  <programme start="20220412100000 -0400" stop="20220412120000 -0400" channel="VTV">
+    <title lang="es">Día a Día /Rep.</title>
+  </programme>
+  <programme start="20220412120000 -0400" stop="20220412130000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado / Rep.</title>
+  </programme>
+  <programme start="20220412130000 -0400" stop="20220412140000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Mediodía</title>
+  </programme>
+  <programme start="20220412140000 -0400" stop="20220412160000 -0400" channel="VTV">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220412160000 -0400" stop="20220412180000 -0400" channel="VTV">
+    <title lang="es">Día a Día</title>
+  </programme>
+  <programme start="20220412180000 -0400" stop="20220412183000 -0400" channel="VTV">
+    <title lang="es">Locos X Las Mascotas / Rep.</title>
+  </programme>
+  <programme start="20220412183000 -0400" stop="20220412190000 -0400" channel="VTV">
+    <title lang="es">Mundo Ecuestre / Rep.</title>
+  </programme>
+  <programme start="20220412190000 -0400" stop="20220412200000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+  </programme>
+  <programme start="20220412200000 -0400" stop="20220412210000 -0400" channel="VTV">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220412210000 -0400" stop="20220412220000 -0400" channel="VTV">
+    <title lang="es">Cicerone / Rep.</title>
+  </programme>
+  <programme start="20220412220000 -0400" stop="20220412230000 -0400" channel="VTV">
+    <title lang="es">La Noche del Pela / Rep.</title>
+  </programme>
+  <programme start="20220412230000 -0400" stop="20220412233000 -0400" channel="VTV">
+    <title lang="es">Free Time / Rep.</title>
+  </programme>
+  <programme start="20220412233000 -0400" stop="20220413000000 -0400" channel="VTV">
+    <title lang="es">Twister / Rep.</title>
+  </programme>
+  <programme start="20220413000000 -0400" stop="20220413010000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220413010000 -0400" stop="20220413030000 -0400" channel="VTV">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413030000 -0400" stop="20220413040000 -0400" channel="VTV">
+    <title lang="es">Fanáticos / Rep.</title>
+  </programme>
+  <programme start="20220413040000 -0400" stop="20220413060000 -0400" channel="VTV">
+    <title lang="es">Baby Deportivo / Rep.</title>
+  </programme>
+  <programme start="20220413060000 -0400" stop="20220413070000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220413070000 -0400" stop="20220413080000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado</title>
+  </programme>
+  <programme start="20220413080000 -0400" stop="20220413100000 -0400" channel="VTV">
+    <title lang="es">Buscadores / Rep.</title>
+  </programme>
+  <programme start="20220413100000 -0400" stop="20220413120000 -0400" channel="VTV">
+    <title lang="es">Día a Día / Rep.</title>
+  </programme>
+  <programme start="20220413120000 -0400" stop="20220413130000 -0400" channel="VTV">
+    <title lang="es">Ferias y Mercados</title>
+  </programme>
+  <programme start="20220413130000 -0400" stop="20220413140000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Mediodía</title>
+  </programme>
+  <programme start="20220413140000 -0400" stop="20220413160000 -0400" channel="VTV">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220413160000 -0400" stop="20220413180000 -0400" channel="VTV">
+    <title lang="es">Día a Día</title>
+  </programme>
+  <programme start="20220413180000 -0400" stop="20220413190000 -0400" channel="VTV">
+    <title lang="es">La Mesa de Motores / Rep.</title>
+  </programme>
+  <programme start="20220413190000 -0400" stop="20220413200000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+  </programme>
+  <programme start="20220413200000 -0400" stop="20220413210000 -0400" channel="VTV">
+    <title lang="es">En la Mira</title>
+  </programme>
+  <programme start="20220413210000 -0400" stop="20220413220000 -0400" channel="VTV">
+    <title lang="es">Pura Sangre</title>
+  </programme>
+  <programme start="20220413220000 -0400" stop="20220413230000 -0400" channel="VTV">
+    <title lang="es">Knock Out</title>
+  </programme>
+  <programme start="20220413230000 -0400" stop="20220414000000 -0400" channel="VTV">
+    <title lang="es">Voces Anónimas</title>
+  </programme>
+  <programme start="20220414000000 -0400" stop="20220414010000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220414010000 -0400" stop="20220414030000 -0400" channel="VTV">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">Lavalleja - Treinta y Tres / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414030000 -0400" stop="20220414040000 -0400" channel="VTV">
+    <title lang="es">Pura Sangre / Rep.</title>
+  </programme>
+  <programme start="20220414040000 -0400" stop="20220414050000 -0400" channel="VTV">
+    <title lang="es">Knock Out / Rep.</title>
+  </programme>
+  <programme start="20220414050000 -0400" stop="20220414060000 -0400" channel="VTV">
+    <title lang="es">Voces Anónimas / Rep.</title>
+  </programme>
+  <programme start="20220414060000 -0400" stop="20220414070000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220414070000 -0400" stop="20220414080000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado</title>
+  </programme>
+  <programme start="20220414080000 -0400" stop="20220414100000 -0400" channel="VTV">
+    <title lang="es">Buscadores / Rep.</title>
+  </programme>
+  <programme start="20220414100000 -0400" stop="20220414120000 -0400" channel="VTV">
+    <title lang="es">Día a Día /Rep.</title>
+  </programme>
+  <programme start="20220414120000 -0400" stop="20220414130000 -0400" channel="VTV">
+    <title lang="es">Transporte al Día</title>
+  </programme>
+  <programme start="20220414130000 -0400" stop="20220414140000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Mediodía</title>
+  </programme>
+  <programme start="20220414140000 -0400" stop="20220414160000 -0400" channel="VTV">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220414160000 -0400" stop="20220414180000 -0400" channel="VTV">
+    <title lang="es">Día a Día</title>
+  </programme>
+  <programme start="20220414180000 -0400" stop="20220414190000 -0400" channel="VTV">
+    <title lang="es">En la Mira / Rep.</title>
+  </programme>
+  <programme start="20220414190000 -0400" stop="20220414200000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+  </programme>
+  <programme start="20220414200000 -0400" stop="20220414210000 -0400" channel="VTV">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220414210000 -0400" stop="20220414213000 -0400" channel="VTV">
+    <title lang="es">Twister</title>
+  </programme>
+  <programme start="20220414213000 -0400" stop="20220414220000 -0400" channel="VTV">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+  <programme start="20220414220000 -0400" stop="20220414230000 -0400" channel="VTV">
+    <title lang="es">Motores en Punta</title>
+  </programme>
+  <programme start="20220414230000 -0400" stop="20220415000000 -0400" channel="VTV">
+    <title lang="es">Especial Finales Uruguayos</title>
+  </programme>
+  <programme start="20220415000000 -0400" stop="20220415010000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220415010000 -0400" stop="20220415030000 -0400" channel="VTV">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">San José - Florida / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415030000 -0400" stop="20220415040000 -0400" channel="VTV">
+    <title lang="es">Transporte al Día / Rep.</title>
+  </programme>
+  <programme start="20220415040000 -0400" stop="20220415050000 -0400" channel="VTV">
+    <title lang="es">Ferias y Mercados / Rep.</title>
+  </programme>
+  <programme start="20220415050000 -0400" stop="20220415060000 -0400" channel="VTV">
+    <title lang="es">Motores en Punta / Rep.</title>
+  </programme>
+  <programme start="20220415060000 -0400" stop="20220415070000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+    <desc lang="es">Rep.(n)</desc>
+  </programme>
+  <programme start="20220415070000 -0400" stop="20220415080000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado</title>
+  </programme>
+  <programme start="20220415080000 -0400" stop="20220415100000 -0400" channel="VTV">
+    <title lang="es">Buscadores / Rep.</title>
+  </programme>
+  <programme start="20220415100000 -0400" stop="20220415120000 -0400" channel="VTV">
+    <title lang="es">Día a Día /Rep.</title>
+  </programme>
+  <programme start="20220415120000 -0400" stop="20220415130000 -0400" channel="VTV">
+    <title lang="es">Valor Agregado / Rep.</title>
+  </programme>
+  <programme start="20220415130000 -0400" stop="20220415140000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Mediodía</title>
+  </programme>
+  <programme start="20220415140000 -0400" stop="20220415160000 -0400" channel="VTV">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220415160000 -0400" stop="20220415180000 -0400" channel="VTV">
+    <title lang="es">Día a Día</title>
+  </programme>
+  <programme start="20220415180000 -0400" stop="20220415190000 -0400" channel="VTV">
+    <title lang="es">Pura Sangre / Rep.</title>
+  </programme>
+  <programme start="20220415190000 -0400" stop="20220415200000 -0400" channel="VTV">
+    <title lang="es">VTV Noticias / Edición Central</title>
+  </programme>
+  <programme start="20220415200000 -0400" stop="20220415210000 -0400" channel="VTV">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220415210000 -0400" stop="20220415220000 -0400" channel="VTV">
+    <title lang="es">La Noche del Pela</title>
+  </programme>
+  <programme start="20220415220000 -0400" stop="20220415230000 -0400" channel="VTV">
+    <title lang="es">En la Mira / Rep.</title>
+  </programme>
+  <programme start="20220412003000 -0400" stop="20220412023000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">Urunday - Malvín / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412023000 -0400" stop="20220412043000 -0400" channel="VTV Plus">
+    <title lang="es">Liga de Ascenso Profesional Fecha 4</title>
+    <desc lang="es">Racing - Sud América / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412043000 -0400" stop="20220412063000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Boston River - Nacional / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412063000 -0400" stop="20220412070000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas / Rep.</title>
+  </programme>
+  <programme start="20220412070000 -0400" stop="20220412090000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa Nacional de Clubes Final Vuelta</title>
+    <desc lang="es">Lavalleja - Treinta y Tres / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412090000 -0400" stop="20220412100000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220412100000 -0400" stop="20220412120000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Wanderers - Dep. Maldonado / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412120000 -0400" stop="20220412140000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Cerro Largo - Defensor / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412140000 -0400" stop="20220412160000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">MC Torque - Rentistas / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412160000 -0400" stop="20220412180000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">Urunday - Malvín / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412180000 -0400" stop="20220412200000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">San José - Florida / Rep.(n)</desc>
+  </programme>
+  <programme start="20220412200000 -0400" stop="20220412210000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220412210000 -0400" stop="20220412233000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / VIVO.(n)</desc>
+  </programme>
+  <programme start="20220412233000 -0400" stop="20220413003000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220413003000 -0400" stop="20220413023000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Wanderers - Dep. Maldonado / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413023000 -0400" stop="20220413043000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413043000 -0400" stop="20220413050000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas / Rep.</title>
+  </programme>
+  <programme start="20220413050000 -0400" stop="20220413070000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Cerro Largo - Defensor / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413070000 -0400" stop="20220413090000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Plaza Colonia - Danubio / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413090000 -0400" stop="20220413100000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220413100000 -0400" stop="20220413120000 -0400" channel="VTV Plus">
+    <title lang="es">Liga de Ascenso Profesional Fecha 4</title>
+    <desc lang="es">Progreso - Atenas / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413120000 -0400" stop="20220413140000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">San José - Florida / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413140000 -0400" stop="20220413160000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Peñarol - Liverpool / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413160000 -0400" stop="20220413180000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413180000 -0400" stop="20220413200000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">Lavalleja - Treinta y Tres / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413200000 -0400" stop="20220413210000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220413210000 -0400" stop="20220413230000 -0400" channel="VTV Plus">
+    <title lang="es">Liga de Ascenso Profesional Fecha 4</title>
+    <desc lang="es">Juventud - Cerro / Rep.(n)</desc>
+  </programme>
+  <programme start="20220413230000 -0400" stop="20220413233000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas / Rep.</title>
+  </programme>
+  <programme start="20220413233000 -0400" stop="20220414003000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220414003000 -0400" stop="20220414023000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">MC Torque - Rentistas/ Rep.(n)</desc>
+  </programme>
+  <programme start="20220414023000 -0400" stop="20220414030000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas / Rep.</title>
+  </programme>
+  <programme start="20220414030000 -0400" stop="20220414050000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">San José - Florida / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414050000 -0400" stop="20220414070000 -0400" channel="VTV Plus">
+    <title lang="es">Liga de Ascenso Profesional Fecha 4</title>
+    <desc lang="es">Juventud - Cerro / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414070000 -0400" stop="20220414090000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Peñarol - Liverpool / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414090000 -0400" stop="20220414100000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220414100000 -0400" stop="20220414120000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">Lavalleja - Treinta y Tres / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414120000 -0400" stop="20220414140000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Fénix - Cerrito / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414140000 -0400" stop="20220414160000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">River Plate - Albion / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414160000 -0400" stop="20220414180000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Plaza Colonia - Danubio / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414180000 -0400" stop="20220414200000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Boston River - Nacional / Rep.(n)</desc>
+  </programme>
+  <programme start="20220414200000 -0400" stop="20220414210000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220414210000 -0400" stop="20220414233000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / VIVO.(n)</desc>
+  </programme>
+  <programme start="20220414233000 -0400" stop="20220415003000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220415003000 -0400" stop="20220415023000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415023000 -0400" stop="20220415043000 -0400" channel="VTV Plus">
+    <title lang="es">OFI - Copa de Selecciones Final Vuelta</title>
+    <desc lang="es">Lavalleja - Treinta y Tres / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415043000 -0400" stop="20220415063000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Wanderers - Dep. Maldonado / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415063000 -0400" stop="20220415083000 -0400" channel="VTV Plus">
+    <title lang="es">Liga de Ascenso Profesional Fecha 4</title>
+    <desc lang="es">Progreso - Atenas / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415083000 -0400" stop="20220415093000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias / Rep.</title>
+  </programme>
+  <programme start="20220415093000 -0400" stop="20220415113000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Plaza Colonia - Danubio / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415113000 -0400" stop="20220415133000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 8</title>
+    <desc lang="es">Peñarol - Liverpool / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415133000 -0400" stop="20220415153000 -0400" channel="VTV Plus">
+    <title lang="es">Liga Uruguaya de Basquet Play In</title>
+    <desc lang="es">A confirmar / Rep.(n)</desc>
+  </programme>
+  <programme start="20220415153000 -0400" stop="20220415180000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 9</title>
+    <desc lang="es">Albion - Cerro Largo / VIVO.(n)</desc>
+  </programme>
+  <programme start="20220415180000 -0400" stop="20220415190000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas Goleadas</title>
+  </programme>
+  <programme start="20220415190000 -0400" stop="20220415200000 -0400" channel="VTV Plus">
+    <title lang="es">Pasión Noticias</title>
+  </programme>
+  <programme start="20220415200000 -0400" stop="20220415223000 -0400" channel="VTV Plus">
+    <title lang="es">Fútbol Uruguayo Apertura Fecha 9</title>
+    <desc lang="es">Defensor - Fénix / VIVO.(n)</desc>
+  </programme>
+  <programme start="20220415223000 -0400" stop="20220415230000 -0400" channel="VTV Plus">
+    <title lang="es">Fechas Pasadas</title>
+  </programme>
+</tv>
