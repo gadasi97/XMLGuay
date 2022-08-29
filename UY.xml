@@ -1,0 +1,3211 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.7 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal4.uy">
+    <display-name lang="es">CANAL 4 MONTECARLO</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GolTVUruguay.uy">
+    <display-name lang="es">GOL TV</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/1519.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="Canal10.uy">
+    <display-name lang="es">SAETA</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/1387.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="Teledoce.uy">
+    <display-name lang="es">TELEDOCE</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/483.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TVCiudad.uy">
+    <display-name lang="es">TEVECIUDAD</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/1290.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="5U.uy">
+    <display-name lang="es">CANAL CINCO</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/475.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TycSportsU.uy">
+    <display-name lang="es">TYC SPORTS</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/2271.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VTV.uy">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <channel id="VTVPlus.uy">
+    <display-name lang="es">VTV Plus</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 años de perdón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Agro 4</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Alas para el folklore</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba que es domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Zoom Internacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En la ruta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santo y Seña</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 años de perdón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Agro 4</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Alas para el folklore</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba que es domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Zoom Internacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En la ruta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santo y Seña</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Absolutamente fabulosas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Todas las voces</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Absolutamente fabulosas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Todas las voces</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Podemos hablar Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Podemos hablar Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Universitario vs. Ayacucho, Fecha 9, Estadio Monumental</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Aucas vs. Guayaquil City, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sport Huancayo vs. Academia Cantolao, Fecha 9, Estadio Huancayo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sporting CP vs. GD Chaves, Fecha 4, Estádio José Alvalade</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC P. Ferreira vs. Estoril Praia, Fecha 4, Estádio Capital do Móvel</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC Arouca vs. SC Braga, Fecha 4, Estádio Municipal de Arouca</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Universitario vs. Ayacucho, Fecha 9, Estadio Monumental</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Aucas vs. Guayaquil City, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sport Huancayo vs. Academia Cantolao, Fecha 9, Estadio Huancayo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sporting CP vs. GD Chaves, Fecha 4, Estádio José Alvalade</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC P. Ferreira vs. Estoril Praia, Fecha 4, Estádio Capital do Móvel</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC Arouca vs. SC Braga, Fecha 4, Estádio Municipal de Arouca</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sporting Cristal vs. U. César Vallejo, Fecha 9, Estadio Alberto Gallardo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Plaza Colonia vs. Def. Sporting, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">City Torque vs. Nacional, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Sporting Cristal vs. U. César Vallejo, Fecha 9, Estadio Alberto Gallardo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Plaza Colonia vs. Def. Sporting, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Liga FUTVE</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">City Torque vs. Nacional, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Barcelona vs. Liga de Quito, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC Arouca vs. SC Braga, Fecha 4, Estádio Municipal de Arouca</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">São Paulo vs. Flamengo, Semifinal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">El show del fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">SL Benfica vs. FC P. Ferreira, Fecha 3, Estádio do Sport Lisboa e Benfica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Barcelona vs. Liga de Quito, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Peñarol vs. Danubio, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">FC Arouca vs. SC Braga, Fecha 4, Estádio Municipal de Arouca</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">São Paulo vs. Flamengo, Semifinal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fechas pasadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">El show del fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">SL Benfica vs. FC P. Ferreira, Fecha 3, Estádio do Sport Lisboa e Benfica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Aucas vs. Guayaquil City, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Aucas vs. Guayaquil City, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Pasión por el fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Cerro Largo vs. River Plate, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Rio Ave FC vs. FC Porto, Fecha 4, Estádio do Rio Ave Futebol Clube</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Barcelona vs. Liga de Quito, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Copa de Brasil</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Portugol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Cerro Largo vs. River Plate, Fecha 5</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Rio Ave FC vs. FC Porto, Fecha 4, Estádio do Rio Ave Futebol Clube</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">GoGoGoal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">9 de Octubre vs. Emelec, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Fanáticos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Barcelona vs. Liga de Quito, Fecha 8</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">CampoTV remates</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Gol TV noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Tu fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">The Football Review</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="GolTVUruguay.uy">
+    <title lang="es">Copa de Brasil</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado sábado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Mejor con música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Hablemos de agro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tecnovial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">De pago en pago</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Punto penal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Punto penal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Dale que va</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado sábado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Mejor con música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Hablemos de agro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tecnovial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">De pago en pago</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Punto penal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Punto penal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Dale que va</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Polémica en el bar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Saber vivir mejor</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Got Talent Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">FBI: Most Wanted</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Saber vivir mejor</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Got Talent Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Masterchef Celebrity</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Sonríe, te estamos grabando</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Sonríe, te estamos grabando</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">TV Educativa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Por la camiseta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Autores en vivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Nehir</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">TV Educativa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Informativo Carve 850</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Arriba gente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">La mañana en casa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">El show de la tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Así es tu día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado tarde</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Subrayado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Por la camiseta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal10.uy">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cincuenta sombras más oscuras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Gente de campo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Americando</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Polideportivo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Hudson &amp; Rex</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Los secretos del poder</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">El último pasajero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo dominical</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Súbete a mi moto</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sorteo 5 de Oro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Súbete a mi moto</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">La culpa es de Colón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo de mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">La receta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo mediodía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Esta boca es mía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Orgullo y pasión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Vidas ajenas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Poné Play</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo de mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">La receta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo mediodía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Esta boca es mía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Orgullo y pasión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Vidas ajenas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">100 uruguayos dicen</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo de mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">La receta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo mediodía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Esta boca es mía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Orgullo y pasión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Vidas ajenas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Trato hecho</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sorteo del 5 de oro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Trato hecho</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Elementary</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">TV educativa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Iglesia universal</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Himno nacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo de mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Desayunos informales</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">La receta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo mediodía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Esta boca es mía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Orgullo y pasión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Sol naciente</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Vidas ajenas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Telemundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Fuego sagrado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Teledoce.uy">
+    <title lang="es">Canta conmigo ahora</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">TV Ciudad Box</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Videoclips</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Padres e hijos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Sabroso y saludable</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">NCC Salud</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">El arquitecto</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Arte esquina</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Hijos del barro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Un set llamado México</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Pobladores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Autoreportaje</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Historia de la música popular uruguaya</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Sin fronteras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Ideas cruzadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Las siamesas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La aldea</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La aldea</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Videoclips</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La ciudad viva</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Ideas cruzadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Autoreportaje</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Línea de tres</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Corre cámara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Videoclips</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La ciudad viva</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Línea de tres</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Autosustentables</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cuenta la historia que...</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Historia de la música popular uruguaya</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Sin fronteras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Videoclips</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La ciudad viva</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Historia de la música popular uruguaya</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Lado B</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Uruguay conecta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Sobreciencia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Ideas cruzadas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La letra chica</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Videoclips</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">La ciudad viva</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Sobreciencia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Elemento Vital</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">En movimiento</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Cocinemos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Paseo animado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Mirá Montevideo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">MVD Noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Apertura del mes de la diversidad</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Relatos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TVCiudad.uy">
+    <title lang="es">Corre cámara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Sodre en escena</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseñarte</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Autosustentables</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Uruguay por dentro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Tesoros del mundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Olas y vientos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Conciencia vial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Run Fit</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La hora de los deportes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Sodre en escena</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseñarte</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Autosustentables</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Uruguay por dentro</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Tesoros del mundo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Olas y vientos</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Conciencia vial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Run Fit</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La hora de los deportes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La ruta de Gardel</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El monitor plástico</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Run Fit</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Concentrados</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Vivir sin permiso</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Restauradores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La ruta de Gardel</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseño para habitar</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Catadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Atlántico Sur</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El monitor plástico</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Run Fit</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Concentrados</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Vivir sin permiso</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Periodistas: Toda la verdad</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Historias propias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Periodistas: Toda la verdad</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseñarte</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Diseñarte</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Social &amp; Co</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">EPA</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Periodistas: Toda la verdad</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Quién es quién</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Conciencia vial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">La entrevista. Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Agroinforme</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Modo país</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Basta de cháchara</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Buscadores</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">El living</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">EPA</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Periodistas: Toda la verdad</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Quién es quién</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Conciencia vial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="5U.uy">
+    <title lang="es">Canal 5 noticias</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Boxeo de primera</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Ferro Carril Oeste vs. Flandria, Fecha 31, Estadio Arquitecto Ricardo Etcheverri</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Rumbo a París</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">San Lorenzo vs. Rosario Central, Fecha 16, Estadio Pedro Bidegain</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Uno contra uno</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Upgrade Golf</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Noveno chukker</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Carburando categorías</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Carburando categorías</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sarmiento vs. Gimnasia LP, Fecha 16, Estadio Eva Perón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Independiente vs. Velez, Fecha 16, Estadio Lib. de América</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Barracas Central vs. Colón, Fecha 16, Estadio Tomás Adolfo Ducó</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Planeta gol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Unión vs. Aldosivi, Fecha 16, Estadio 15 de Abril</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Paso a paso</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Club Miami</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Almagro vs. Alvarado, Fecha 31, Estadio Tres de Febrero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Estudio fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Paso a paso</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Superfútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Al ángulo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Dale al medio</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. de Belgrano vs. All Boys, Fecha 31, Estadio Juan Pasquale</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Independiente vs. Velez, Fecha 16, Estadio Lib. de América</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Carburando</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Club Miami</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. de Belgrano vs. All Boys, Fecha 31, Estadio Juan Pasquale</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. de Belgrano vs. All Boys, Fecha 31, Estadio Juan Pasquale</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Superfútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Al ángulo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Dale al medio</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Talleres (RdE) vs. Villa San Carlos, Fecha 12</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Show Nacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Upgrade Golf</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Talleres (RdE) vs. Villa San Carlos, Fecha 12</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Rumbo a París</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Show Nacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Superfútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Al ángulo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Dale al medio</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Godoy Cruz vs. Belgrano, Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Banfield vs. Gimnasia (J), Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Previa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. y Justicia vs. River Plate, Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. y Justicia vs. River Plate, Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Godoy Cruz vs. Belgrano, Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Def. y Justicia vs. River Plate, Octavos de final</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Superfútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Al ángulo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Dale al medio</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Líbero</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Presión alta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">Sportia</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="TycSportsU.uy">
+    <title lang="es">La noche de TyC Sports</title>
+  </programme>
+  <programme start="20220828090000 -0400" stop="20220828110000 -0400" channel="VTV.uy">
+    <title lang="es">EL FUTURO DEL FÚTBOL</title>
+  </programme>
+  <programme start="20220828110000 -0400" stop="20220828130000 -0400" channel="VTV.uy">
+    <title lang="es">TCR SUDAMERICA EN VIVO</title>
+  </programme>
+  <programme start="20220828130000 -0400" stop="20220828150000 -0400" channel="VTV.uy">
+    <title lang="es">KARTING EN VIVO</title>
+  </programme>
+  <programme start="20220828150000 -0400" stop="20220828160000 -0400" channel="VTV.uy">
+    <title lang="es">PREVIA</title>
+  </programme>
+  <programme start="20220828160000 -0400" stop="20220828210000 -0400" channel="VTV.uy">
+    <title lang="es">OFI COPA NACIONAL DE CLUBES - FINAL IDA</title>
+    <desc lang="es">Universitario (Salto) - Central (San José).(n)</desc>
+  </programme>
+  <programme start="20220828210000 -0400" stop="20220828220000 -0400" channel="VTV.uy">
+    <title lang="es">CÁMARA CELESTE</title>
+  </programme>
+  <programme start="20220828220000 -0400" stop="20220829070000 -0400" channel="VTV.uy">
+    <title lang="es">VOCES ANÓNIMAS</title>
+  </programme>
+  <programme start="20220829070000 -0400" stop="20220829130000 -0400" channel="VTV.uy">
+    <title lang="es">VALOR AGREGADO</title>
+  </programme>
+  <programme start="20220829130000 -0400" stop="20220829140000 -0400" channel="VTV.uy">
+    <title lang="es">VTV NOTICIAS Edición mediodía</title>
+  </programme>
+  <programme start="20220829140000 -0400" stop="20220829163000 -0400" channel="VTV.uy">
+    <title lang="es">BUSCADORES</title>
+  </programme>
+  <programme start="20220829163000 -0400" stop="20220829184500 -0400" channel="VTV.uy">
+    <title lang="es">DÍA A DÍA</title>
+  </programme>
+  <programme start="20220829184500 -0400" stop="20220829220000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición central</title>
+  </programme>
+  <programme start="20220829220000 -0400" stop="20220830070000 -0400" channel="VTV.uy">
+    <title lang="es">LA MESA DE MOTORES</title>
+  </programme>
+  <programme start="20220830070000 -0400" stop="20220830130000 -0400" channel="VTV.uy">
+    <title lang="es">VALOR AGREGADO</title>
+  </programme>
+  <programme start="20220830130000 -0400" stop="20220830140000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición mediodía</title>
+  </programme>
+  <programme start="20220830140000 -0400" stop="20220830163000 -0400" channel="VTV.uy">
+    <title lang="es">BUSCADORES</title>
+  </programme>
+  <programme start="20220830163000 -0400" stop="20220830184500 -0400" channel="VTV.uy">
+    <title lang="es">DÍA A DÍA</title>
+  </programme>
+  <programme start="20220830184500 -0400" stop="20220830200000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición central</title>
+  </programme>
+  <programme start="20220830200000 -0400" stop="20220830223000 -0400" channel="VTV.uy">
+    <title lang="es">METRO- Liguilla Fecha 5.</title>
+    <desc lang="es">A confirmar.(n)</desc>
+  </programme>
+  <programme start="20220830223000 -0400" stop="20220831070000 -0400" channel="VTV.uy">
+    <title lang="es">Y... SI AYUDAMOS?</title>
+  </programme>
+  <programme start="20220831070000 -0400" stop="20220831130000 -0400" channel="VTV.uy">
+    <title lang="es">VALOR AGREGADO</title>
+  </programme>
+  <programme start="20220831130000 -0400" stop="20220831140000 -0400" channel="VTV.uy">
+    <title lang="es">VTV NOTICIAS Edición mediodía</title>
+  </programme>
+  <programme start="20220831140000 -0400" stop="20220831163000 -0400" channel="VTV.uy">
+    <title lang="es">BUSCADORES</title>
+  </programme>
+  <programme start="20220831163000 -0400" stop="20220831184500 -0400" channel="VTV.uy">
+    <title lang="es">DÍA A DÍA</title>
+  </programme>
+  <programme start="20220831184500 -0400" stop="20220831200000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición central</title>
+  </programme>
+  <programme start="20220831200000 -0400" stop="20220831213000 -0400" channel="VTV.uy">
+    <title lang="es">EN LA MIRA</title>
+  </programme>
+  <programme start="20220831213000 -0400" stop="20220831223000 -0400" channel="VTV.uy">
+    <title lang="es">PURA SANGRE</title>
+  </programme>
+  <programme start="20220831223000 -0400" stop="20220831233000 -0400" channel="VTV.uy">
+    <title lang="es">KNOCK OUT</title>
+  </programme>
+  <programme start="20220831233000 -0400" stop="20220901070000 -0400" channel="VTV.uy">
+    <title lang="es">VOCES ANÓNIMAS</title>
+  </programme>
+  <programme start="20220901070000 -0400" stop="20220901120000 -0400" channel="VTV.uy">
+    <title lang="es">VALOR AGREGADO</title>
+  </programme>
+  <programme start="20220901120000 -0400" stop="20220901130000 -0400" channel="VTV.uy">
+    <title lang="es">TRANSPORTE AL DÍA</title>
+  </programme>
+  <programme start="20220901130000 -0400" stop="20220901140000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición mediodía</title>
+  </programme>
+  <programme start="20220901140000 -0400" stop="20220901163000 -0400" channel="VTV.uy">
+    <title lang="es">BUSCADORES</title>
+  </programme>
+  <programme start="20220901163000 -0400" stop="20220901184500 -0400" channel="VTV.uy">
+    <title lang="es">DÍA A DÍA</title>
+  </programme>
+  <programme start="20220901184500 -0400" stop="20220901200000 -0400" channel="VTV.uy">
+    <title lang="es">VTV Noticias edición central</title>
+  </programme>
+  <programme start="20220901200000 -0400" stop="20220901210000 -0400" channel="VTV.uy">
+    <title lang="es">PODER CIUDADANO</title>
+  </programme>
+  <programme start="20220901210000 -0400" stop="20220901213000 -0400" channel="VTV.uy">
+    <title lang="es">TWISTER</title>
+  </programme>
+  <programme start="20220901213000 -0400" stop="20220901220000 -0400" channel="VTV.uy">
+    <title lang="es">FECHAS PASADAS</title>
+  </programme>
+  <programme start="20220828043000 -0400" stop="20220828093000 -0400" channel="VTVPlus.uy">
+    <title lang="es">CAMPEONES TORNEOS CORTOS</title>
+  </programme>
+  <programme start="20220828093000 -0400" stop="20220828120000 -0400" channel="VTVPlus.uy">
+    <title lang="es">FÚTBOL URUGUAYO CLAUSURA FECHA 5</title>
+    <desc lang="es">Liverpool - Dep. Maldonado.(n)</desc>
+  </programme>
+  <programme start="20220828120000 -0400" stop="20220828143000 -0400" channel="VTVPlus.uy">
+    <title lang="es">LIGA DE ASCENSO PROFESIONAL - FECHA 18</title>
+    <desc lang="es">Cerro - Racing.(n)</desc>
+  </programme>
+  <programme start="20220828143000 -0400" stop="20220828170000 -0400" channel="VTVPlus.uy">
+    <title lang="es">FÚTBOL URUGUAYO CLAUSURA FECHA 5</title>
+    <desc lang="es">Plaza Colonia - Defensor.(n)</desc>
+  </programme>
+  <programme start="20220828170000 -0400" stop="20220828180000 -0400" channel="VTVPlus.uy">
+    <title lang="es">PREVIA</title>
+  </programme>
+  <programme start="20220828180000 -0400" stop="20220828200000 -0400" channel="VTVPlus.uy">
+    <title lang="es">FÚTBOL URUGUAYO CLAUSURA FECHA 5</title>
+    <desc lang="es">Peñarol - Danubio.(n)</desc>
+  </programme>
+  <programme start="20220828200000 -0400" stop="20220828223000 -0400" channel="VTVPlus.uy">
+    <title lang="es">LIGA DE ASCENSO PROFESIONAL - FECHA 18</title>
+    <desc lang="es">Miramar - Uruguay Mveo.(n)</desc>
+  </programme>
+  <programme start="20220829173000 -0400" stop="20220829200000 -0400" channel="VTVPlus.uy">
+    <title lang="es">FÚTBOL URUGUAYO CLAUSURA - FECHA 5</title>
+    <desc lang="es">Cerro Largo - River Plate.(n)</desc>
+  </programme>
+  <programme start="20220830143000 -0400" stop="20220830200000 -0400" channel="VTVPlus.uy">
+    <title lang="es">CLÁSICO CLAUSURA TERCERA - FECHA 4</title>
+    <desc lang="es">Nacional - Peñarol.(n)</desc>
+  </programme>
+  <programme start="20220830200000 -0400" stop="20220830223000 -0400" channel="VTVPlus.uy">
+    <title lang="es">METRO. LIGUILLA - FECHA 5</title>
+    <desc lang="es">A confirmar.(n)</desc>
+  </programme>
+  <programme start="20220831150000 -0400" stop="20220831173000 -0400" channel="VTVPlus.uy">
+    <title lang="es">COPA URUGUAY - TERCERA FASE</title>
+    <desc lang="es">Progreso - Danubio.(n)</desc>
+  </programme>
+  <programme start="20220831173000 -0400" stop="20220831200000 -0400" channel="VTVPlus.uy">
+    <title lang="es">ESPECIAL CLÁSICOS CLAUSURA</title>
+  </programme>
+  <programme start="20220831200000 -0400" stop="20220831200000 -0400" channel="VTVPlus.uy">
+    <title lang="es">COPA URUGUAY - TERCERA FASE</title>
+    <desc lang="es">Central Español - Liverpool.(n)</desc>
+  </programme>
+</tv>
