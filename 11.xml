@@ -1,0 +1,712 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.7 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal4.uy">
+    <display-name lang="es">CANAL 4 MONTECARLO</display-name>
+    <icon src="http://resources.nuevosiglo.com.uy/reportv/img/senales/1383.svg" />
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="GolTVUruguay.uy">
+    <display-name lang="es">GOL TV</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="Canal10.uy">
+    <display-name lang="es">SAETA</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="Teledoce.uy">
+    <display-name lang="es">TELEDOCE</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TVCiudad.uy">
+    <display-name lang="es">TEVECIUDAD</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="5U.uy">
+    <display-name lang="es">CANAL CINCO</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="TycSportsU.uy">
+    <display-name lang="es">TYC SPORTS</display-name>
+    <url>http://www.nuevosiglo.com.uy.E</url>
+  </channel>
+  <channel id="VTV.uy">
+    <display-name lang="es">VTV</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <channel id="VTVPlus.uy">
+    <display-name lang="es">VTV Plus</display-name>
+    <url>http://www.vtv.com.uy</url>
+  </channel>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 años de perdón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Agro 4</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Alas para el folklore</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba que es domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Zoom Internacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En la ruta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santo y Seña</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 años de perdón</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santa Misa</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Agro 4</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Alas para el folklore</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba que es domingo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Zoom Internacional</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En la ruta</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Santo y Seña</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Absolutamente fabulosas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Todas las voces</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Absolutamente fabulosas</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Todas las voces</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Sopa de letras</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Ahora caigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Podemos hablar Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Podemos hablar Uruguay</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El secuestro de Mateo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En foco</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Show de la fe</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Vamo arriba</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Algo contigo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Bien con Lourdes</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El precio justo</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">En foco</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Un doctor genial</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El café de la mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El viaje fantástico</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El diario del fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 x 100 actitud</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Anna y el rey</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">De la tierra al plato</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Joy: el nombre del éxito</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Fin de transmisión</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El café de la mañana</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El viaje fantástico</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">El diario del fútbol</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Teledía</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">100 x 100 actitud</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Anna y el rey</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Aquí está su música</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Telenoche</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">De la tierra al plato</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Reenviado</title>
+  </programme>
+  <programme start="20220828000000 -0300" stop="20220828000000 -0300" channel="Canal4.uy">
+    <title lang="es">Joy: el nombre del éxito</title>
+  </programme>
+</tv>
